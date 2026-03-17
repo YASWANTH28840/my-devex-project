@@ -92,6 +92,12 @@ TOTAL       14      0   100%
 
 ### PROOF 3: Debug Output & Test Environment Configuration
 
+
+<img width="1121" height="559" alt="image" src="https://github.com/user-attachments/assets/1e00f7f7-9f24-42a2-9a96-0c36defb5bb6" />
+
+<img width="1121" height="559" alt="image" src="https://github.com/user-attachments/assets/cd7f6352-81a5-4f33-9328-84e955927075" />
+
+
 **Environment:**
 - Platform: Windows (win32)
 - Python Version: 3.10.0
