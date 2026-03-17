@@ -28,6 +28,12 @@ Service runs at: **http://localhost:5000**
 
 ### PROOF 1: Service Running & API Responding
 
+
+<img width="1917" height="489" alt="image" src="https://github.com/user-attachments/assets/b477882f-e8f5-4ef9-9302-1edefed81139" />
+
+<img width="1917" height="492" alt="image" src="https://github.com/user-attachments/assets/acbe6035-ac7c-4aea-b622-1a7722f39400" />
+
+
 **Endpoint:** GET http://127.0.0.1:5000/
 
 **Response:**
