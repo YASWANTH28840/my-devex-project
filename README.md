@@ -54,6 +54,9 @@ Service runs at: **http://localhost:5000**
 
 ### PROOF 2: All Tests Passing (11/11) - 100% Coverage
 
+<img width="1122" height="871" alt="image" src="https://github.com/user-attachments/assets/ea84ee5b-536f-40b5-b318-586292a4e79e" />
+
+
 **Command:** `pytest tests/ -v --cov=.`
 
 **Results:**
